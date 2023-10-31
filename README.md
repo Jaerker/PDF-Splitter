@@ -3,3 +3,5 @@ Small project I made for myself in the company where I work, needed a pdf splitt
 
 
 When starting the project, just drag and drop the PDF files you want to split, press the button, and then theyget structured in seperate maps and indexed.
+
+**split.py** is the start file.
